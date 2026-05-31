@@ -1,4 +1,4 @@
-# File: JWG.py
+# File: initials.py
 
 #
 # Name: James Whyte Gyebi
@@ -15,16 +15,16 @@ def main():
     print()
     print("...JWG")
     print()
-    print("...JJJJJJJJJJJJ........WW........WW........GGGGGGGGGGGG....")
-    print("...JJJJJJJJJJJJ........WW........WW........GGGGGGGGGGGG....")
-    print("........JJJ............WW........WW........GGGG............")
-    print("........JJJ............WW........WW........GGGG............")
-    print("........JJJ............WW...WW...WW........GGGG..GGGGGG....")
-    print("........JJJ............WW...WW...WW........GGGG..GGGGGG....")
-    print("........JJJ............WW..WWWW..WW........GGGG....GGGG....")
-    print("...JJ...JJJ............WW..WWWW..WW........GGGG....GGGG....")
-    print("...JJ...JJJ.......**...WWWW....WWWW...**...GGGGGGGGGGGG..**")
-    print("...JJJJJJJJ.......**...WWWW....WWWW...**...GGGGGGGGGGGG..**")
+    print("...JJJJJJJJJJJJ........WW........WW........GGGGGGGGGGGG.....")
+    print("...JJJJJJJJJJJJ........WW........WW........GGGGGGGGGGGG.....")
+    print("........JJJ............WW........WW........GGGG.............")
+    print("........JJJ............WW........WW........GGGG.............")
+    print("........JJJ............WW...WW...WW........GGGG..GGGGGG.....")
+    print("........JJJ............WW...WW...WW........GGGG..GGGGGG.....")
+    print("........JJJ............WW..WWWW..WW........GGGG....GGGG.....")
+    print("...JJ...JJJ............WW..WWWW..WW........GGGG....GGGG.....")
+    print("...JJ...JJJ.......**...WWWW....WWWW...**...GGGGGGGGGGGG...**")
+    print("...JJJJJJJJ.......**...WWWW....WWWW...**...GGGGGGGGGGGG...**")
 
     print()
 
